@@ -3,7 +3,7 @@ entries:
   helloworld:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-01-26T00:06:04.21726Z
+    created: 2018-01-26T13:56:36.926523Z
     description: A Helm chart for Kubernetes
     digest: 1e931ab02707afb7b8584e3791ce69e832d97c783083d7749593f09e4d1c0cfd
     name: helloworld
@@ -13,11 +13,20 @@ entries:
   neo-product:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-01-26T00:06:04.217881Z
+    created: 2018-01-26T13:56:36.9278Z
+    description: A Helm chart for Kubernetes
+    digest: 5665f149e73c234f27105994f5a813c5ab190ab5bd9a34f6612b0cea53114986
+    name: neo-product
+    urls:
+    - http://www.andresguisado.io/mycharts/neo-product-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-01-26T13:56:36.927174Z
     description: A Helm chart for Kubernetes
     digest: 839f0a654182cb9afea5f2050d4010f2cbccf6cc8743947f3e8aae1aef5ca566
     name: neo-product
     urls:
     - http://www.andresguisado.io/mycharts/neo-product-0.1.0.tgz
     version: 0.1.0
-generated: 2018-01-26T00:06:04.216653Z
+generated: 2018-01-26T13:56:36.925623Z
